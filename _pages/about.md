@@ -1,8 +1,37 @@
 ---
----
-permalink: /
-title: "Aveline | 言语治疗师"
+title: About
+permalink: /about/
+layout: single
 author_profile: true
+---
+# Aveline
+**言语治疗师 (Speech Therapist, ST)**
+
+> 不驰于空想，不骛于虚声。
+
+[📄 Download CV (CN)]({{ site.baseurl }}/files/cv-cn.pdf) | [📄 Download CV (EN)]({{ site.baseurl }}/files/cv-en.pdf)
+
+<div style="display: flex;gap:10px;flex-wrap: wrap;margin:2rem 0;">
+<a href="{{ site.baseurl }}/about/" style="padding:8px 16px;background:#283747;color:white;border-radius:4px;text-decoration:none;">关于</a>
+<a href="{{ site.baseurl }}/skills/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">技能</a>
+<a href="{{ site.baseurl }}/gallery/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">照片</a>
+<a href="{{ site.baseurl }}/experience/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">经历</a>
+<a href="{{ site.baseurl }}/contact/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">联系方式</a>
+</div>
+
+## Basic Information
+- **Email**: 填入你的邮箱
+- **Location**: 上海，中国
+- **Degree**: 硕士（病理与病理生理学）
+- **Occupation**: 言语治疗师
+
+## 个人简介
+目前从事成人言语吞咽康复临床工作。硕士阶段的基础科研训练，帮助我以病理生理视角理解神经损伤相关的言语、吞咽功能损伤机制。
+
+研究兴趣：成人神经源性吞咽障碍、运动性言语障碍、嗓音障碍康复。
+
+> 本网站为个人学术作品集，仅用于专业学习、求职展示，**不提供线上诊疗服务**。
+
 # redirect_from: 
 #   - /about/
 #   - /about.html
