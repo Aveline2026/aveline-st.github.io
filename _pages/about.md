@@ -1,36 +1,47 @@
 ---
-title: About
+---
 permalink: /about/
-layout: single
+title: "About"
 author_profile: true
 ---
+
 # Aveline
 **言语治疗师 (Speech Therapist, ST)**
 
 > 不驰于空想，不骛于虚声。
 
-[📄 Download CV (CN)]({{ site.baseurl }}/files/cv-cn.pdf) | [📄 Download CV (EN)]({{ site.baseurl }}/files/cv-en.pdf)
+[📄 Download CV (CN)](/assets/files/CV_CN.pdf)  [📄 Download CV (EN)](/assets/files/CV_EN.pdf)
 
-<div style="display: flex;gap:10px;flex-wrap: wrap;margin:2rem 0;">
-<a href="{{ site.baseurl }}/about/" style="padding:8px 16px;background:#283747;color:white;border-radius:4px;text-decoration:none;">关于</a>
-<a href="{{ site.baseurl }}/skills/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">技能</a>
-<a href="{{ site.baseurl }}/gallery/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">照片</a>
-<a href="{{ site.baseurl }}/experience/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">经历</a>
-<a href="{{ site.baseurl }}/contact/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">联系方式</a>
-</div>
+## 基本信息
+- **邮箱**：填入你的邮箱
+- **所在地**：上海，中国
+- **学位**：硕士（病理与病理生理学）
 
-## Basic Information
-- **Email**: 填入你的邮箱
-- **Location**: 上海，中国
-- **Degree**: 硕士（病理与病理生理学）
-- **Occupation**: 言语治疗师
+## 研究方向
+成人神经源性吞咽障碍、运动性言语障碍、嗓音障碍康复；
+熟悉神经重症康复评估与干预，涵盖FEES/VFSS、球囊扩张、呼吸肌训练、AAC辅助沟通等技术。
 
-## 个人简介
-目前从事成人言语吞咽康复临床工作。硕士阶段的基础科研训练，帮助我以病理生理视角理解神经损伤相关的言语、吞咽功能损伤机制。
+## 专业技能
+- **临床评估**：吞咽功能评估、构音/言语运动评估、嗓音评估、认知沟通筛查
+- **康复干预**：吞咽球囊扩张、呼吸肌训练、运动性言语障碍V-NEST动词语义扩增法、AAC辅具适配
+- **科研能力**：分子生物学实验基础、文献综述、临床案例总结、学术会议汇报
 
-研究兴趣：成人神经源性吞咽障碍、运动性言语障碍、嗓音障碍康复。
+## 工作经历
+> 将下方替换为你的真实履历
+- 上海XX康复医院 言语治疗科｜言语治疗师 | XXXX.XX – 至今
+  负责神经重症、脑卒中、ALS等患者吞咽、言语、嗓音障碍的评估与康复干预；参与科室教学、病例研讨与科普内容创作。
 
-> 本网站为个人学术作品集，仅用于专业学习、求职展示，**不提供线上诊疗服务**。
+## 个人照片
+![Aveline](/assets/images/avatar.jpg)
+> 把你的头像照片上传至 `assets/images/`，图片文件名保持一致即可。
+
+## 联系方式
+- Email：xxx@xxx.com
+- Google Scholar：【粘贴你的Scholar主页链接】
+- ORCID：【粘贴你的ORCID链接】
+- GitHub：【粘贴你的GitHub主页链接】
+
+> 欢迎学术交流、科研项目合作洽谈。
 
 # redirect_from: 
 #   - /about/
