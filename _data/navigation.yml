@@ -10,13 +10,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
   - title: "Talks"
     url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
+  - title: "Clinical"
+    url: /clinical/
   - title: "Portfolio"
     url: /portfolio/
         
