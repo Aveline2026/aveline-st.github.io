@@ -13,8 +13,8 @@ title                    : "Aveline / 言语治疗师"
 title_separator          : "-"
 name                     : &name "Aveline"
 description              : &description "言语治疗师 | 成人吞咽 & 嗓音康复"
-url: "https://aveline-st.github.io"
-baseurl: ""
+url: "https://aveline2026.github.io"
+baseurl: "/aveline-st.github.io"
 repository: "Aveline2026/aveline-st.github.io"
 
 author:
@@ -34,10 +34,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      :
   impactstory      :
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         :
   ssrn             :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     :
   scopus           :
   zotero           :
@@ -46,7 +46,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "academicpages"
+  github           : "aveline2026"
   kaggle           :
   stackoverflow    :
 
@@ -77,28 +77,6 @@ author:
   youtube          :
   zhihu            :
 
-# 👉 新增 MAIN 导航菜单（就是你截图里的菜单，2空格缩进，yaml严格要求！）
-# main:
-#  - title: "Aveline / 言语治疗师"
-#    url: /aveline-st.github.io/about/
-#  - title: "Publications"
-#    url: /aveline-st.github.io/publications/
-#  - title: "Talks"
-#    url: /aveline-st.github.io/talks/
-#  - title: "Teaching"
-#    url: /aveline-st.github.io/teaching/
-#  - title: "Clinical"
-#    url: /aveline-st.github.io/clinical/
-#  - title: "Portfolio"
-#    url: /aveline-st.github.io/portfolio/
-#  - title: "Blog Posts"
-#    url: /aveline-st.github.io/posts/
-#  - title: "CV"
-#    url: /aveline-st.github.io/cv/
-#  - title: "Guide"
-#    url: /aveline-st.github.io/guide/
-
-# Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
@@ -176,7 +154,6 @@ analytics:
 include:
   - .htaccess
   - _pages
-  assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
