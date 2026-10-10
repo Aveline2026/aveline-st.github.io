@@ -13,9 +13,9 @@ title                    : "Aveline / 言语治疗师"
 title_separator          : "-"
 name                     : &name "Aveline"
 description              : &description "言语治疗师 | 成人吞咽 & 嗓音康复"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://aveline2026.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/aveline-st.github.io" # the subpath of your site, e.g. "/blog"
+url                      : https://aveline2026.github.io
+baseurl                  : ""
+
 repository               : "Aveline2026/aveline-st.github.io"
 
 author:
