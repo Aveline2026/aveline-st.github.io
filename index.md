@@ -43,30 +43,36 @@ header: false
   color: white;
 }
 
-.right-col{
+.right-col {
   position: relative;
   overflow: hidden;
 }
+
 .right-col img {
-  width:100%;
+  width: 100%;
+  display: block;
   transition: transform 0.4s ease;
 }
+
 .grid-overlay {
   position: absolute;
-  inset:0;
+  inset: 0;
   background-image:
     linear-gradient(#8899aa 1px, transparent 1px),
     linear-gradient(90deg, #8899aa 1px, transparent 1px);
-  background-size:24px 24px;
-  pointer-events:none;
-  opacity:0.35;
+  background-size: 24px 24px;
+  pointer-events: none;
+  opacity: 0.35;
   transition: opacity 0.3s ease;
+  z-index: 2;
 }
-.right-col:hover img{
-  transform:scale(1.03);
+
+.right-col:hover img {
+  transform: scale(1.03);
 }
-.right-col:hover .grid-overlay{
-  opacity:0.15;
+
+.right-col:hover .grid-overlay {
+  opacity: 0.15;
 }
 
 @media (max-width: 768px) {
@@ -77,12 +83,14 @@ header: false
 </style>
 
 <div class="split-container">
+
   <div class="left-col">
     <h1>Aveline</h1>
 
     <p class="slogan">
       言语语言治疗师｜病理与病理生理学硕士<br>
-      <em>不驰于空想，不骛于虚声。循证康复，赋能沟通与进食。</em>
+      <em>不驰于空想，不骛于虚声。
+          循证康复，赋能沟通与进食。</em>
     </p>
 
     <p>
@@ -95,8 +103,13 @@ header: false
 
   <div class="right-col">
     <div class="grid-overlay"></div>
-![脑部神经与咽喉言语吞咽康复医学科技插画](/assets/images/rehab-cover.png)
+
+    <img
+      src="/assets/images/rehab-cover.png"
+      alt="脑部神经与咽喉言语吞咽康复医学科技插画"
+    >
   </div>
+
 </div>
 
 ---
