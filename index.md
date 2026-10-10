@@ -82,11 +82,11 @@ header: false
       成人神经源性言语、嗓音、吞咽、认知沟通康复<br>
       服务卒中、脑出血、肌萎缩侧索硬化（ALS）、帕金森病（PD）、阿尔茨海默病（AD）人群
     </p>
-    <a href="{{ site.baseurl }}/clinical/" class="explore-btn">EXPLORE</a>
+    <a href="https://aveline2026.github.io/aveline-st.github.io/clinical/" class="explore-btn">EXPLORE</a>
   </div>
   <div class="right-col">
     <div class="grid-overlay"></div>
- <img src="{{ site.baseurl }}/assets/images/rehab-cover.png" alt="脑部神经与咽喉言语吞咽康复医学科技插画">
+<img src="https://aveline2026.github.io/aveline-st.github.io/assets/images/rehab-cover.png" alt="脑部神经与咽喉言语吞咽康复医学科技插画">
 </div>
 </div>
 
