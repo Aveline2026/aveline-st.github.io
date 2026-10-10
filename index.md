@@ -5,8 +5,12 @@ permalink: /
 footer: false
 ---
 <style>
-/* 只隐藏页面最顶部第一个ul（导航列表），不影响下面临床方向的列表 */
-body > ul:first-of-type {
+/* 干掉侧边栏菜单，Minimal Mistakes/Academic Pages侧边栏ul */
+.sidebar__menu ul {
+    display: none !important;
+}
+/* 兜底，防止class不一样 */
+.sidebar nav ul {
     display: none !important;
 }
 </style>
