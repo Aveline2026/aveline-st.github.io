@@ -43,35 +43,30 @@ header: false
   color: white;
 }
 
-.grid-image-wrap {
+.right-col{
   position: relative;
   overflow: hidden;
 }
-
-.grid-image-wrap img {
-  width: 100%;
-  display: block;
+.right-col img {
+  width:100%;
   transition: transform 0.4s ease;
 }
-
 .grid-overlay {
   position: absolute;
-  inset: 0;
+  inset:0;
   background-image:
     linear-gradient(#8899aa 1px, transparent 1px),
     linear-gradient(90deg, #8899aa 1px, transparent 1px);
-  background-size: 24px 24px;
-  pointer-events: none;
-  opacity: 0.35;
+  background-size:24px 24px;
+  pointer-events:none;
+  opacity:0.35;
   transition: opacity 0.3s ease;
 }
-
-.grid-image-wrap:hover img {
-  transform: scale(1.03);
+.right-col:hover img{
+  transform:scale(1.03);
 }
-
-.grid-image-wrap:hover .grid-overlay {
-  opacity: 0.15;
+.right-col:hover .grid-overlay{
+  opacity:0.15;
 }
 
 @media (max-width: 768px) {
@@ -99,10 +94,8 @@ header: false
   </div>
 
   <div class="right-col">
-    <div class="grid-image-wrap">
-      <div class="grid-overlay"></div>
-      <img src="/assets/images/rehab-cover.jpg" alt="脑部神经与咽喉言语吞咽康复医学科技插画">
-    </div>
+    <div class="grid-overlay"></div>
+![脑部神经与咽喉言语吞咽康复医学科技插画](/assets/images/rehab-cover.png)
   </div>
 </div>
 
@@ -116,9 +109,9 @@ header: false
 - AAC辅助沟通
 
 ### 📚 研究关注点
-- 嗓音与运动性言语循证干预
-- 汉语失语症VNeST临床应用
-- 神经退行性疾病言语吞咽全程管理
-- ICF框架、呼吸肌训练、误吸风险防控
+- 嗓音与运动性言语障碍循证干预
+- 汉语失语症VNeST治疗
+- 神经退行性疾病吞咽与沟通全程管理
+- ICF康复评估框架、呼吸肌训练、隐性误吸识别
 
-> ⚠️ 免责声明：本站内容仅用于学术交流，不构成诊疗建议。
+> ⚠️ 免责声明：本站内容仅用于学术交流，不构成医疗诊断与治疗建议。
