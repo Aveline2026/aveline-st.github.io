@@ -3,6 +3,7 @@ layout: splash
 author_profile: false
 permalink: /
 footer: false
+masthead: false
 ---
 
 <style>
