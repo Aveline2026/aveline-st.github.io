@@ -78,25 +78,25 @@ author:
   zhihu            :
 
 # 👉 新增 MAIN 导航菜单（就是你截图里的菜单，2空格缩进，yaml严格要求！）
-main:
-  - title: "Aveline / 言语治疗师"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Clinical"
-    url: /clinical/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Blog Posts"
-    url: /posts/
-  - title: "CV"
-    url: /cv/
-  - title: "Guide"
-    url: /guide/
+# main:
+#  - title: "Aveline / 言语治疗师"
+#    url: /aveline-st.github.io/about/
+#  - title: "Publications"
+#    url: /aveline-st.github.io/publications/
+#  - title: "Talks"
+#    url: /aveline-st.github.io/talks/
+#  - title: "Teaching"
+#    url: /aveline-st.github.io/teaching/
+#  - title: "Clinical"
+#    url: /aveline-st.github.io/clinical/
+#  - title: "Portfolio"
+#    url: /aveline-st.github.io/portfolio/
+#  - title: "Blog Posts"
+#    url: /aveline-st.github.io/posts/
+#  - title: "CV"
+#    url: /aveline-st.github.io/cv/
+#  - title: "Guide"
+#    url: /aveline-st.github.io/guide/
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
