@@ -82,11 +82,11 @@ header: false
       成人神经源性言语、嗓音、吞咽、认知沟通康复<br>
       服务卒中、脑出血、肌萎缩侧索硬化（ALS）、帕金森病（PD）、阿尔茨海默病（AD）人群
     </p>
-    <a href="/clinical/" class="explore-btn">EXPLORE</a>
+    <a href="{{ site.baseurl }}/clinical/" class="explore-btn">EXPLORE</a>
   </div>
   <div class="right-col">
     <div class="grid-overlay"></div>
- <img src="/assets/images/rehab-cover.png" alt="脑部神经与咽喉言语吞咽康复医学科技插画">
+ <img src="{{ site.baseurl }}/assets/images/rehab-cover.png" alt="脑部神经与咽喉言语吞咽康复医学科技插画">
 </div>
 </div>
 
@@ -94,14 +94,8 @@ header: false
 ### 🩺 临床方向
 - 嗓音 & 运动性言语障碍
 - 吞咽障碍评估与干预
-- 失语症（V-NEST）
+- 失语症
 - 认知沟通康复
 - AAC辅助沟通
-
-### 📚 研究关注点
-- 嗓音与运动性言语障碍循证干预
-- 汉语失语症V-NEST治疗
-- 神经退行性疾病吞咽与沟通全程管理
-- ICF康复评估框架、呼吸肌训练、隐性误吸识别
 
 > ⚠️ 免责声明：本站内容仅用于学术交流，不构成医疗诊断与治疗建议。
