@@ -2,11 +2,13 @@
 layout: splash
 author_profile: false
 permalink: /
+header: false
+footer: false
 ---
 <table style="width:100%; border:none; border-collapse: collapse; max-width:1200px; margin:0 auto;">
   <tr>
     <td style="width:50%; vertical-align:middle; padding:3rem 2rem;">
-      <p style="font-size:0.95rem; color:#6b7280; margin:0 0 0.5rem 0;">Hello / 你好</p>
+      <p style="font-size:0.95rem; color:#6b7280; margin:0 0 0.5rem 0;">Hello ，很高兴遇见你，这里是</p>
       <h1 style="font-size:3rem; font-weight:700; color:#111827; margin:0 0 0.6rem 0;">Aveline</h1>
       <p style="font-size:1.15rem; color:#2c4260; margin:0 0 1rem 0;">言语语言治疗师｜病理与病理生理学硕士</p>
       <p style="font-size:1rem; color:#4b5563; font-style:italic; margin:0 0 1.4rem 0;">
