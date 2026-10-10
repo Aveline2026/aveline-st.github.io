@@ -3,45 +3,122 @@ layout: about
 title: "Aveline"
 permalink: /
 author_profile: true
-header:
-  image: "/assets/images/home-banner.jpg"
-  image_description: "Neurological speech and swallowing rehabilitation"
+header: false
 ---
 
-# 你好，我是 Aveline
-言语语言治疗师｜病理与病理生理学硕士
+<style>
+.split-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  min-height: 70vh;
+}
 
-> 不驰于空想，不骛于虚声。
-> 以循证为根基，开展嗓音、运动性言语、吞咽、认知沟通与失语症康复，帮助神经损伤人群重建进食、沟通与生活参与能力。
+.left-col h1 {
+  color: #2c4b66;
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin: 0 0 1rem;
+}
 
----
+.left-col .slogan {
+  font-size: 1.1rem;
+  color: #444;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
 
-<div class="notice">
-## 🩺 临床工作领域
-服务脑卒中、脑出血、肌萎缩侧索硬化（ALS）、帕金森病（PD）、阿尔茨海默病（AD）等神经疾病患者，开展成人言语与吞咽相关康复评估与干预：
+.explore-btn {
+  border: 1px solid #2c4b66;
+  display: inline-block;
+  padding: 0.7rem 1.4rem;
+  color: #2c4b66;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
 
-- **嗓音与运动性言语障碍康复**：声带小结、功能性/神经源性嗓音障碍、构音障碍、言语失用；嗓音行为治疗、呼吸发声协调训练
-- **吞咽障碍康复**：神经源性吞咽困难、隐性误吸、UES功能障碍；FEES/VFSS评估解读、球囊扩张干预
-- **失语症康复**：脑卒中后各类失语症评估与语言功能重建训练；动词网络强化疗法（VNeST），改善动词提取、句子产出与篇章表达
-- **认知沟通康复**：脑损伤、阿尔茨海默病（AD）、帕金森病（PD）相关注意力、执行功能、记忆与语用沟通障碍训练
-- **AAC辅助沟通**：重度沟通障碍患者替代沟通方案、家属指导与早期介入
+.explore-btn:hover {
+  background: #2c4b66;
+  color: white;
+}
+
+.grid-image-wrap {
+  position: relative;
+  overflow: hidden;
+}
+
+.grid-image-wrap img {
+  width: 100%;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.grid-overlay {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(#8899aa 1px, transparent 1px),
+    linear-gradient(90deg, #8899aa 1px, transparent 1px);
+  background-size: 24px 24px;
+  pointer-events: none;
+  opacity: 0.35;
+  transition: opacity 0.3s ease;
+}
+
+.grid-image-wrap:hover img {
+  transform: scale(1.03);
+}
+
+.grid-image-wrap:hover .grid-overlay {
+  opacity: 0.15;
+}
+
+@media (max-width: 768px) {
+  .split-container {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="split-container">
+  <div class="left-col">
+    <h1>Aveline</h1>
+
+    <p class="slogan">
+      言语语言治疗师｜病理与病理生理学硕士<br>
+      <em>不驰于空想，不骛于虚声。循证康复，赋能沟通与进食。</em>
+    </p>
+
+    <p>
+      成人神经源性言语、嗓音、吞咽、认知沟通康复<br>
+      服务卒中、脑出血、肌萎缩侧索硬化（ALS）、帕金森病（PD）、阿尔茨海默病（AD）人群
+    </p>
+
+    <a href="/clinical/" class="explore-btn">EXPLORE</a>
+  </div>
+
+  <div class="right-col">
+    <div class="grid-image-wrap">
+      <div class="grid-overlay"></div>
+      <img src="/assets/images/rehab-cover.jpg" alt="脑部神经与咽喉言语吞咽康复医学科技插画">
+    </div>
+  </div>
 </div>
 
 ---
 
-## 📚 研究与持续关注
-临床工作坚持循证思路，持续跟进以下方向：
-1. 神经源性嗓音障碍、功能性嗓音障碍与运动性言语障碍的评估与保守干预方案
-2. 动词网络强化疗法（VNeST）在汉语失语症人群中的临床应用与循证证据
-3. 呼吸肌训练（RMT）：兼顾发声功能优化与神经疾病患者咳嗽保护
-4. ICF康复框架：康复目标从单纯功能评估转向**生活参与**
-5. 神经退行性疾病（PD、AD、ALS）的言语、嗓音与吞咽功能动态管理
-6. 隐性误吸：早期识别、风险分层与长期防控
+### 🩺 临床方向
+- 嗓音 & 运动性言语障碍
+- 吞咽障碍评估与干预
+- 失语症（VNeST）
+- 认知沟通康复
+- AAC辅助沟通
 
----
+### 📚 研究关注点
+- 嗓音与运动性言语循证干预
+- 汉语失语症VNeST临床应用
+- 神经退行性疾病言语吞咽全程管理
+- ICF框架、呼吸肌训练、误吸风险防控
 
-## 🔗 联系与学术平台
-- 邮箱：slpaveline@163.com
-- GitHub：aveline2026
-
-> ⚠️ 免责声明：本站内容仅用于临床思考、学术交流与康复科普，**不构成任何诊疗建议**。
+> ⚠️ 免责声明：本站内容仅用于学术交流，不构成诊疗建议。
