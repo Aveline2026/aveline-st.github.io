@@ -13,10 +13,9 @@ title                    : "Aveline / 言语治疗师"
 title_separator          : "-"
 name                     : &name "Aveline"
 description              : &description "言语治疗师 | 成人吞咽 & 嗓音康复"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://aveline2026.github.io
-baseurl                  : ""
-
-repository               : "Aveline2026/aveline-st.github.io"
+url: "https://aveline-st.github.io"
+baseurl: ""
+repository: "Aveline2026/aveline-st.github.io"
 
 author:
   # Biographic information
