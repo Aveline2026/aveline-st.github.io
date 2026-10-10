@@ -1,3 +1,8 @@
+---
+layout: splash
+author_profile: false
+permalink: /
+---
 <table style="width:100%; border:none; border-collapse: collapse; max-width:1200px; margin:0 auto;">
   <tr>
     <td style="width:50%; vertical-align:middle; padding:3rem 2rem;">
@@ -11,7 +16,7 @@
         成人神经源性言语、嗓音、吞咽、认知沟通康复。<br>
         为卒中、脑出血、ALS、帕金森病（PD）、阿尔茨海默病（AD）成人患者提供康复评估与干预。
       </p>
-      <a href="/aveline-st.github.io/clinical/" 
+      <a href="/aveline-st.github.io/about/" 
          style="display:inline-block; background-color:#2c4260; color:#ffffff; padding:0.8rem 1.7rem; text-decoration:none; border-radius:4px; font-weight:500;">
         EXPLORE 
       </a>
