@@ -6,11 +6,6 @@ footer: false
 masthead: false
 ---
 
-<style>
-  .masthead__menu {
-    display: none !important;
-  }
-</style>
 <table style="width:100%; border:none; border-collapse: collapse; max-width:1200px; margin:0 auto;">
   <tr>
     <td style="width:50%; vertical-align:middle; padding:3rem 2rem;">
@@ -24,7 +19,7 @@ masthead: false
         成人神经源性言语、嗓音、吞咽、认知沟通康复。<br>
         为卒中、脑出血、ALS、帕金森病（PD）、阿尔茨海默病（AD）成人患者提供康复评估与干预。
       </p>
-      <a href="/aveline-st.github.io/about/" 
+      <a href="./about/" 
          style="display:inline-block; background-color:#2c4260; color:#ffffff; padding:0.8rem 1.7rem; text-decoration:none; border-radius:4px; font-weight:500;">
         EXPLORE 
       </a>
@@ -38,12 +33,9 @@ masthead: false
     </td>
   </tr>
 </table>
-
 <hr style="border:none; border-top:1px solid #e5e7eb; margin:2rem 0;">
-
 <div style="max-width:1200px; margin:0 auto; padding:0 2rem;">
   <h2 style="font-size:1.4rem; color:#111827; margin:0 0 1rem 0;">临床方向</h2>
-
   <table style="border:none; border-collapse:collapse;">
     <tr>
       <td style="width:50%; font-size:1rem; color:#374151; padding:0.35rem 0;">• 嗓音 & 运动性言语障碍</td>
@@ -58,7 +50,6 @@ masthead: false
       <td></td>
     </tr>
   </table>
-
   <p style="font-size:0.88rem; color:#6b7280; margin-top:1.8rem;">
     ⚠️ 免责声明：本站内容仅用于学术交流，不构成医疗诊断与治疗建议。
   </p>
