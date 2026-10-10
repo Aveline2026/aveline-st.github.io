@@ -3,7 +3,6 @@ layout: splash
 author_profile: false
 permalink: /
 footer: false
-masthead: false
 ---
 
 <table style="width:100%; border:none; border-collapse: collapse; max-width:1200px; margin:0 auto;">
@@ -54,3 +53,16 @@ masthead: false
     ⚠️ 免责声明：本站内容仅用于学术交流，不构成医疗诊断与治疗建议。
   </p>
 </div>
+
+<script>
+// 删除页面最顶部乱输出的导航ul列表
+document.addEventListener('DOMContentLoaded', function(){
+  const firstUl = document.querySelector('ul');
+  if(firstUl){
+    const topY = firstUl.getBoundingClientRect().top;
+    if(topY <= 20){
+       firstUl.remove();
+    }
+  }
+})
+</script>
