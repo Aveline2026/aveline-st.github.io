@@ -4,32 +4,11 @@ author_profile: false
 permalink: /
 footer: false
 ---
-
-<script>
-document.addEventListener('DOMContentLoaded', function(){
-  document.body.classList.add('home-page');
-});
-</script>
-
 <style>
-  body.home-page .masthead__menu,
-  body.home-page nav,
-  body.home-page ul {
+/* 只隐藏页面最顶部第一个ul（导航列表），不影响下面临床方向的列表 */
+body > ul:first-of-type {
     display: none !important;
-  }
-
-  body.home-page h1,
-  body.home-page p,
-  body.home-page a,
-  body.home-page table,
-  body.home-page hr,
-  body.home-page div {
-    display: block !important;
-  }
-
-  body.home-page .explore-button {
-    display: inline-block !important;
-  }
+}
 </style>
 
 <table style="width:100%; border:none; border-collapse: collapse; max-width:1200px; margin:0 auto;">
@@ -45,8 +24,8 @@ document.addEventListener('DOMContentLoaded', function(){
         成人神经源性言语、嗓音、吞咽、认知沟通康复。<br>
         为卒中、脑出血、ALS、帕金森病（PD）、阿尔茨海默病（AD）成人患者提供康复评估与干预。
       </p>
-      <a class="explore-button" href="./about/"
-         style="background-color:#2c4260; color:#ffffff; padding:0.8rem 1.7rem; text-decoration:none; border-radius:4px; font-weight:500;">
+      <a href="./about/"
+         style="display:inline-block; background-color:#2c4260; color:#ffffff; padding:0.8rem 1.7rem; text-decoration:none; border-radius:4px; font-weight:500;">
         EXPLORE
       </a>
     </td>
