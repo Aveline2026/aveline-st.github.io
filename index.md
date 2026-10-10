@@ -70,25 +70,24 @@ header: false
   }
 }
 </style>
-<div class="split-container">
-  <div class="left-col">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; min-height:70vh;">
+  <div>
     <h1>Aveline</h1>
-    <p class="slogan">
-      言语语言治疗师｜病理与病理生理学硕士<br>
-      <em>不驰于空想，不骛于虚声。
-          循证康复，赋能沟通与进食。</em>
+    <p style="font-size:1.1rem; color:#444;">
+    言语语言治疗师｜病理与病理生理学硕士<br>
+    不驰于空想，不骛于虚声。循证康复，赋能沟通与进食。
     </p>
     <p>
-      成人神经源性言语、嗓音、吞咽、认知沟通康复<br>
-      服务卒中、脑出血、肌萎缩侧索硬化（ALS）、帕金森病（PD）、阿尔茨海默病（AD）人群
+    成人神经源性言语、嗓音、吞咽、认知沟通康复<br>
+    服务卒中、脑出血、肌萎缩侧索硬化（ALS）、帕金森病（PD）、阿尔茨海默病（AD）人群
     </p>
-    <a href="https://aveline2026.github.io/aveline-st.github.io/clinical/" class="explore-btn">EXPLORE</a>
+    <a href="https://aveline2026.github.io/aveline-st.github.io/clinical/" style="border:1px solid #2c4b66; padding:0.7rem 1.4rem; color:#2c4b66; text-decoration:none; border-radius:2px; display:inline-block; margin-top:1rem;">EXPLORE</a>
   </div>
-  <div class="right-col">
-    <div class="grid-overlay"></div>
-<img src="https://aveline2026.github.io/aveline-st.github.io/assets/images/rehab-cover.png" alt="脑部神经与咽喉言语吞咽康复医学科技插画">
+  <div>
+    <img src="https://aveline2026.github.io/aveline-st.github.io/assets/images/rehab-cover.png" alt="脑部神经与咽喉言语吞咽康复医学科技插画" style="width:100%;">
+  </div>
 </div>
-</div>
+
 
 ---
 ### 🩺 临床方向
