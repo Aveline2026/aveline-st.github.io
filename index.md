@@ -2,9 +2,14 @@
 layout: splash
 author_profile: false
 permalink: /
-header: false
 footer: false
 ---
+
+<style>
+  .masthead__menu {
+    display: none !important;
+  }
+</style>
 <table style="width:100%; border:none; border-collapse: collapse; max-width:1200px; margin:0 auto;">
   <tr>
     <td style="width:50%; vertical-align:middle; padding:3rem 2rem;">
