@@ -30,7 +30,7 @@ author_profile: true
   负责脑卒中、脑外伤、AD、PD、ALS等患者吞咽、言语、嗓音、认知障碍的评估与康复干预；参与科室教学、病例研讨与科普内容创作。
 
 ## 个人照片
-![Aveline](/assets/images/avatar.jpg)
+<img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Aveline" style="max-width:320px;width:100%;border-radius:6px;border:1px solid #e5e7eb;">
 
 ## 联系方式
 - Email：slpaveline@163.com
