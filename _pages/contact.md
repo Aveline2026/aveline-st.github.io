@@ -15,7 +15,7 @@ author_profile: true
 <a href="{{ site.baseurl }}/contact/" style="padding:8px 16px;background:#283747;color:white;border-radius:4px;text-decoration:none;">联系方式</a>
 </div>
 
-- 📩 **Email**：填入你的邮箱
+- 📩 **Email**：slpaveline@163.com
 - 🧑‍💻 **GitHub**：[Aveline2026](https://github.com/Aveline2026)
 - 📕 **小红书**：[你的小红书链接]
 - 📍 **Location**：上海，中国

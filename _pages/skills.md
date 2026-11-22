@@ -33,6 +33,7 @@ author_profile: true
 <div style="background:#e9ecef;border-radius:5px;height:16px;width:100%;margin:4px 0 16px 0;">
 <div style="width:88%;background:#2980b9;height:16px;border-radius:5px;"></div>
 </div>
+[👉 查看临床评估与干预技术详情]({{ site.baseurl }}/skills/clinical-swallow/)
 
 ### 分子实验技能（可点击跳转详情）
 
