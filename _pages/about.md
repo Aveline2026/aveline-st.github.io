@@ -27,7 +27,7 @@ author_profile: true
 
 ## 工作经历
 - 言语语言治疗师 | 2025.07 – 至今
-  负责脑卒中、脑外伤、AD、PD、ALS等患者吞咽、言语、嗓音、认知障碍的评估与康复干预；参与科室教学、病例研讨与科普内容创作。
+  负责脑卒中、脑外伤、阿尔茨海默病（AD）、帕金森病（PD）、肌萎缩侧索硬化（ALS）等患者吞咽、言语、嗓音、认知障碍的评估与康复干预；参与科室教学、病例研讨与科普内容创作。
 
 ## 个人照片
 <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Aveline" style="max-width:320px;width:100%;border-radius:6px;border:1px solid #e5e7eb;">

@@ -53,7 +53,7 @@ footer: false
       <p class="hp-role">言语语言治疗师 · 病理与病理生理学硕士</p>
       <p class="hp-quote">不驰于空想，不骛于虚声。循证康复，赋能沟通与进食。</p>
       <p class="hp-desc">
-        面向成人神经源性言语、嗓音、吞咽与认知沟通障碍，为卒中、脑出血、ALS、帕金森病（PD）、阿尔茨海默病（AD）患者提供康复评估与干预。
+        面向成人神经源性言语、嗓音、吞咽与认知沟通障碍，为卒中、脑出血、肌萎缩侧索硬化（ALS）、帕金森病（PD）、阿尔茨海默病（AD）患者提供康复评估与干预。
       </p>
       <div class="hp-actions">
         <a class="hp-btn hp-btn--solid" href="{{ site.baseurl }}/about/">了解我的方向</a>
