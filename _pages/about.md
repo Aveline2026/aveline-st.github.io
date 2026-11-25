@@ -9,7 +9,7 @@ author_profile: true
 
 > 不驰于空想，不骛于虚声。
 
-[📄 Download CV (CN)](/assets/files/CV_CN.pdf)  [📄 Download CV (EN)](/assets/files/CV_EN.pdf)
+[📩 完整简历请邮件索取](mailto:slpaveline@163.com?subject=%E7%B4%A2%E5%8F%96%E5%AE%8C%E6%95%B4%E7%AE%80%E5%8E%86&body=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8B%E4%BD%A0%E7%9A%84%E5%AE%8C%E6%95%B4%E7%AE%80%E5%8E%86%EF%BC%8C%E6%96%B9%E4%BE%BF%E7%9A%84%E8%AF%9D%E8%AF%B7%E5%9B%9E%E5%A4%8D%E6%AD%A4%E9%82%AE%E4%BB%B6%E3%80%82)
 
 ## 基本信息
 - **邮箱**：slpaveline@163.com
