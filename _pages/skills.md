@@ -15,7 +15,7 @@ author_profile: true
 <a href="{{ site.baseurl }}/contact/" style="padding:8px 16px;background:#eaecee;color:#283747;border-radius:4px;text-decoration:none;">联系方式</a>
 </div>
 
-> 点击对应技能，可以查看详细实验 Protocol 与实验图片。
+> 点击对应技能，可以查看详细操作流程与要点。
 
 ### 临床康复技能
 

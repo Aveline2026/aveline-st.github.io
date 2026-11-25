@@ -17,7 +17,6 @@ author_profile: true
 
 - 📩 **Email**：slpaveline@163.com
 - 🧑‍💻 **GitHub**：[Aveline2026](https://github.com/Aveline2026)
-- 📕 **小红书**：[你的小红书链接]
 - 📍 **Location**：上海，中国
 
 > 邮件是最稳定的联系方式。

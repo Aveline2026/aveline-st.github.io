@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Aveline / 言语治疗师"
 title_separator          : "-"
@@ -19,19 +19,19 @@ repository: "Aveline2026/aveline-st.github.io"
 
 author:
   # Biographic information
-  avatar           : "assets/images/avatar.jpg"
+  avatar           : "avatar.jpg"
   name             : "Aveline"
   pronouns         : "she/her"
   bio              : "言语语言治疗师，病理与病理生理学硕士。研究兴趣：成人神经源性吞咽障碍、运动性言语障碍、嗓音障碍康复。"
   location         : "上海"
   employer         : "医院言语治疗科"
   uri              :
-  email            : "deldarddari457@gmail.com"
+  email            : "slpaveline@163.com"
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    :
   inspire-hep      :
   impactstory      :
   orcid            : 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       :
-  bluesky          : "bsky.app"
+  bluesky          :
   facebook         :
   flickr           :
   foursquare       :
