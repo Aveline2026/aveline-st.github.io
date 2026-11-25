@@ -52,10 +52,10 @@ DOI：[10.21037/tcr-2026-0480](https://doi.org/10.21037/tcr-2026-0480)
 
 ### 4. Mutant ATRX: pathogenesis of ATRX syndrome and cancer
 
-*Frontiers in Molecular Biosciences*　2024 年　JCR-Q2，IF 3.9
-**第 4 作者**（共 7 位作者）
+*Frontiers in Molecular Biosciences*　2024 年 10 月 16 日　JCR-Q2，IF 3.9
+**第三作者**（署名第 4 位；Kejia Yuan 与 Yan Tang 并列第一作者，原文以 † 标注共享第一作者，按并列计为第三作者）
 
-作者：Kejia Yuan, Yan Tang, Zexian Ding, **Lei Peng**, Jinghua Zeng, Huaying Wu, Qi Yi
+作者：Kejia Yuan†, Yan Tang†, Zexian Ding, **Lei Peng**, Jinghua Zeng, Huaying Wu, Qi Yi
 综述性质，系统梳理 ATRX 突变在 ATRX 综合征与肿瘤发生中的作用机制。
 DOI：[10.3389/fmolb.2024.1434398](https://doi.org/10.3389/fmolb.2024.1434398)
 
