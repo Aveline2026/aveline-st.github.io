@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于"
 author_profile: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 permalink: /clinical/
-title: Clinical Work
+title: "临床工作"
 author_profile: true
 ---
 # 临床康复方向
