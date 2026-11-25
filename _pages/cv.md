@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +7,39 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# 简历
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[📄 下载公开版简历 (PDF)]({{ site.baseurl }}/assets/files/CV_Public.pdf)　　[📩 索取完整版](mailto:slpaveline@163.com?subject=%E7%B4%A2%E5%8F%96%E5%AE%8C%E6%95%B4%E7%AE%80%E5%8E%86)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+公开版已隐去手机号、出生年月与具体工作单位，临床与科研内容完整保留。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 教育背景
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**湖南师范大学（211）｜病理与病理生理学｜硕士**　2022.09 – 2025.06
+专业排名前 20%。研究方向：染色质结构与基因组稳定性（HP1/ATRX）。
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**徐州医科大学（本科一批）｜康复治疗学｜学士**　2018.09 – 2022.06
+专业排名前 10%。
+
+## 工作经历
+
+**上海某三级康复医院｜言语语言治疗师**　2025.07 – 至今
+
+- 独立完成吞咽造影（VFSS）、Frenchay 构音障碍评定、WAB 失语症成套测验、中文版快速失语症测验（CQAB）、MoCA 认知筛查等标准化评估，累计评估 100 余人次；
+- 运用 SFA、VNeST、SOVT、AAC 辅助沟通、导管球囊扩张与吞咽说话瓣膜（Passy-Muir Valve）等技术开展一对一及小组治疗，累计治疗 100 余例；
+- 以量化指标追踪语言、嗓音与吞咽安全性，执行误吸风险分级评估与摄食进阶，拔管前经吞咽评估确认经口安全；
+- 独立撰写评估记录、治疗计划、阶段小结与出院建议，参与 MDT 方案调整；
+- 参与实习生与进修生临床带教、科室病例讨论与内训授课；撰写健康科普文章 8 篇（单篇最高阅读量 22309）；参与科室质控。
+
+## 科研经历
+
+共发表论文 4 篇（3 篇共同第一作者），参与国家自然科学基金青年项目与湖南省自然科学基金青年项目各 1 项。详见[科研页]({{ site.baseurl }}/publications/)。
+
+## 技能与证书
+
+- **资质**：康复治疗师资格证
+- **临床**：失语症、构音障碍、吞咽障碍、认知障碍的评估与治疗；个体化目标制定；一对一与小组治疗；多学科协作；家属宣教；病程记录与专业报告；临床带教
+- **数据分析**：Office、R、SPSS，可完成常用统计检验与图表绘制
+- **语言**：CET-6（501），具备英文文献阅读与书写能力
+
+> 详细的教育与工作经历见[经历页]({{ site.baseurl }}/experience/)。
